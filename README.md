@@ -1,5 +1,5 @@
-# Reveal-of-papers-in-cv
-Some reveals of papers in computer vision
+# CS272 Computer Vision II (2018 spring)
+Collect weekly project from the course :D
 ## Saliency Detection: A Spectral Residual Approach
 version: Matlab
 
